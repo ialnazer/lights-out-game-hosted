@@ -1,4 +1,4 @@
-# Light Out Game
+# Lights Out Game
 
 ![main](https://res.cloudinary.com/ddjb3qdew/image/upload/v1640621737/Light_Out_ssqf3d.png)
 
