@@ -85,7 +85,7 @@ class Board extends Component {
             )
         }
         return (
-            <div>
+            <div className='Game'>
                 <div className="Board-title">
                     <span className="neon">Lights </span>
                     <span className="flux">Out </span>
